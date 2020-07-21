@@ -1,0 +1,17 @@
+.jumbotron-fluid {
+  
+    padding-right: 45;
+    padding-left: 9;
+    border-radius: 78;
+    text-transform: capitalize;
+    color: #667788;
+  }
+  .jumbotron {
+  
+    padding-right: 450;
+    padding-left: 900;
+    border-radius: 78;
+    align-content: center;
+    border: 7px;
+    
+  }
